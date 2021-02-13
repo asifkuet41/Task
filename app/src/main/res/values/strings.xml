@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Task</string>
+    <string name="title_activity_home">MainActivity</string>
+    <string name="title_home">User</string>
+    <string name="title_dashboard">Info</string>
+    <string name="title_notifications">Report</string>
+    <string name="signup_text">
+        <font color="#EF5350">Don\'t have an account?</font>
+         <font color="#387D75">\nCreate new account</font>
+       </string>
+</resources>
